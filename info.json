@@ -1,1 +1,12 @@
-
+{
+  "name": "Sotero Currency",
+  "symbol": "SOTERO",
+  "decimals": 18,
+  "description": "Trust-backed private token",
+  "logo": {
+    "src": "assets/0xF115dF8640A243D7D44e6f424D18Fc72c94cCA03/logo.png",
+    "width": "256",
+    "height": "256",
+    "type": "image/png"
+  }
+}
