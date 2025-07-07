@@ -2,11 +2,9 @@
   "name": "Sotero Currency",
   "symbol": "SOTERO",
   "decimals": 18,
-  "description": "Trust-backed private token",
-  "logo": {
-    "src": "assets/0xF115dF8640A243D7D44e6f424D18Fc72c94cCA03/logo.png",
-    "width": "256",
-    "height": "256",
-    "type": "image/png"
-  }
+  "description": "Sotero Currency is a sovereign, trust-backed ERC-20 bearer token issued by Succor International Ecclesiastical Trust for private commercial use.",
+  "website": "https://yoursite.com",
+  "explorer": "https://polygonscan.com/token/0xF115dF8640A243D7D44...etc",
+  "status": "active",
+  "id": "sotero-currency"
 }
